@@ -1,0 +1,1 @@
+This error occurs when using Expo's `Camera` component with the `useCameraDevices` hook.  The hook returns an empty array, even when permissions are granted and the camera is available. This prevents the app from accessing the device's camera.
